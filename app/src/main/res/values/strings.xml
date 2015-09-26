@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YourSchool</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">University of The District of Columbia</string>
+    <string name="imgSchool">School Image</string>
+    <string name="btnInformation">View Information</string>
+    <string name="imgSchoolLogo">School Logo Image</string>
+    <string name="txtAddress">4200 Connecticut Ave NW, Washington, DC, 20008</string>
+    <string name="txtPhoneNumber">(202) 274-5000</string>
+    <string name="title_activity_school">School</string>
+</resources>
